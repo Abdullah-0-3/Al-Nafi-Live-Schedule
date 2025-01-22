@@ -1,0 +1,116 @@
+[
+    {
+        "No": "Red Hat Enterprise Linux Intensive (Diploma in Cloud Cyber Security)",
+        "Class Name": "Kazim Shaikh",
+        "Instructor": "19-01-2025, 26-01-2025",
+        "Date": "11:00 AM (PKT) / 1:00 AM (EST)"
+    },
+    {
+        "No": "AWS Solution Architecture (Diploma in SysOps & Cloud Advancement)",
+        "Class Name": "Kazim Shaikh",
+        "Instructor": "25-01-2025",
+        "Date": "11:00 AM (PKT) / 1:00 AM (EST)"
+    },
+    {
+        "No": "Live Classes with Muhammad Faisal",
+        "Class Name": "Mohammad Faisal",
+        "Instructor": "TBD",
+        "Date": "TBD"
+    },
+    {
+        "No": "Programming in Ethereum, dAPPs & Web3.0, DeFi, NFT and Tokens & Role of Security (Advanced Certificate in Blockchain)",
+        "Class Name": "Farhan Khan",
+        "Instructor": "TBD",
+        "Date": "1:00 PM (PKT) / 4:00 AM (EST)"
+    },
+    {
+        "No": "Python Programming, Deep Learning, Machine Learning (Diploma in Artificial Intelligence Advancement)",
+        "Class Name": "Dr. Awais Butt",
+        "Instructor": "TBD",
+        "Date": "10:30 PM (PKT) / 1:30 PM (EST)"
+    },
+    {
+        "No": "Elasticsearch SOC Engineer (Diploma in Cloud Cyber Security)",
+        "Class Name": "Muhammad Abdullah Tariq",
+        "Instructor": "25-01-2025, 26-01-2025",
+        "Date": "3:00 PM (PKT) / 5:00 AM (EST)"
+    },
+    {
+        "No": "Elasticsearch Threat Hunting and Observability Engineer (Diploma in Cloud Cyber Security)",
+        "Class Name": "Osama Anwer",
+        "Instructor": "TBD",
+        "Date": "4:00 PM (PKT) / 7:00 AM (EST)"
+    },
+    {
+        "No": "Elasticsearch for Data Science and Analytics with Kibana (Diploma in Cloud Cyber Security)",
+        "Class Name": "Saira Kaleem",
+        "Instructor": "11-01-2025, 18-01-2025",
+        "Date": "11:00 AM (PKT) / 1:00 AM (EST)"
+    },
+    {
+        "No": "DevOps Automation Tools Deep Dive (Diploma in DevOps and Cloud Advancement)",
+        "Class Name": "Abde Ali Dodia",
+        "Instructor": "04-01-2025, 11-01-2025",
+        "Date": "1:30 PM (PKT) / 4:30 AM (EST)"
+    },
+    {
+        "No": "Cloud Security Professional, Cloud Security Standards & ISSAP Architecture (Diploma in SysOps & Cloud Advancement)",
+        "Class Name": "Mohammad Faisal",
+        "Instructor": "TBD",
+        "Date": "10:30 PM (PKT) / 12:30 PM (EST)"
+    },
+    {
+        "No": "Internship Program (All Al Nafi Diploma Students)",
+        "Class Name": "Mohammad Faisal",
+        "Instructor": "TBD",
+        "Date": "11:30 PM (PKT) / 1:30 PM (EST)"
+    },
+    {
+        "No": "NPT, VA and WSTG Labs (Diploma in Cloud Cyber Security)",
+        "Class Name": "Muhammad Husnain",
+        "Instructor": "18-01-2025, 19-01-2025",
+        "Date": "2:00 PM (PKT) / 4:00 AM (EST)"
+    },
+    {
+        "No": "Artificial Intelligence (Diploma in Artificial Intelligence Advancement)",
+        "Class Name": "Dr. Saleha Raza",
+        "Instructor": "TBD",
+        "Date": "9:00 PM (PKT) / 12:00 PM (EST)"
+    },
+    {
+        "No": "IELTS Academic & General Training (Diploma in Cloud Cyber Security)",
+        "Class Name": "Osman Abdul Khaliq",
+        "Instructor": "Monday to Friday",
+        "Date": "11:30 AM (PKT) / 1:30 AM (EST)"
+    },
+    {
+        "No": "DevOps Open Source Tools (Diploma in DevOps & Cloud Advancement)",
+        "Class Name": "Zarmeena Anwer",
+        "Instructor": "TBD",
+        "Date": "9:00 PM (PKT) / 11:00 AM (EST)"
+    },
+    {
+        "No": "Live Class of Kubernetes Courses (Diploma in DevOps and Cloud Advancement)",
+        "Class Name": "Shams Ur Rehman",
+        "Instructor": "TBD",
+        "Date": "3:00 PM (PKT) / 6:00 AM (EST)"
+    },
+    {
+        "No": "LinkedIn Course For Job Seekers (Diploma in Cloud Cyber Security)",
+        "Class Name": "Hammad Siddiqui",
+        "Instructor": "22-01-2025, 05-02-2025",
+        "Date": "8:00 PM (PKT) / 10:00 AM (EST)"
+    },
+    {
+        "No": "Microsoft Azure Administrator (Diploma in SysOps & Cloud Advancement)",
+        "Class Name": "Saira Kaleem",
+        "Instructor": "05-01-2025, 26-01-2025",
+        "Date": "7:00 PM (PKT) / 9:00 AM (EST)"
+    },
+    {
+        "No": "VA, WAP, WSTG, NTP, MDD & Mitre Att&ck Deep Dive (Certificate in Offensive Cyber Security)",
+        "Class Name": "Muhammad Husnain",
+        "Instructor": "18-01-2025, 19-01-2025",
+        "Date": "3:00 PM (PKT) / 5:00 AM (EST)"
+    }
+]
